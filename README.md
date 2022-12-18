@@ -36,7 +36,6 @@ This is a solution to the [Stats preview card componentt](https://www.frontendme
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/nft-preview-card-component-esjPYS6HLk
 - Live Site URL: https://atif-dev.github.io/stats-preview__card//
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
 - GitHub repo : https://github.com/atif-dev/stats-preview__card
 
 ## My process
