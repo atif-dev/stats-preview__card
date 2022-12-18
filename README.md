@@ -29,8 +29,8 @@ This is a solution to the [Stats preview card componentt](https://www.frontendme
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/nft-preview__card-component/blob/main/Screenshots/desktop-1440%20x%20900.png?raw=true)
-![Mobile view](https://github.com/atif-dev/nft-preview__card-component/blob/main/Screenshots/iphone%20X.png?raw=true)
+![PC View](https://github.com/atif-dev/stats-preview__card/blob/main/screenshots/pc.png?raw=true)
+![Mobile view](https://github.com/atif-dev/stats-preview__card/blob/main/screenshots/mobile.png?raw=true)
 
 ### Links
 
