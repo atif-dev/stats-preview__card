@@ -221,6 +221,9 @@ h1 {
   .ranking div {
     font-size: 1rem;
   }
+  .attribution {
+    font-size: 0.8rem;
+  }
 }
 footer {
   position: relative;
